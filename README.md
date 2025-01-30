@@ -1,2 +1,3 @@
-# PINNS for the study of Liquid Crystall Cells
- Proof of concept stage
+# PINNS for the study of Liquid Crystal Cells
+
+ Proof of concept.
